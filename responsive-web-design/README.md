@@ -1,6 +1,6 @@
 # Responsive Web Design Certification 🐱🎨
 
-In this certification, you'll learn the core languages for building webpages:  
+In this certification, I'll learn the core languages for building webpages:  
 ✅ **HTML** (Hypertext Markup Language) for content structure  
 ✅ **CSS** (Cascading Style Sheets) for styling and design  
 
