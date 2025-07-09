@@ -10,7 +10,6 @@ In this certification, you'll learn the core languages for building webpages:
 - **Skills learned**: HTML basics, CSS fundamentals
 - Build a simple app to practice:
   - HTML elements (`<img>`, `<section>`, `<form>`)
-  - CSS styling (colors, fonts, borders)
 
 ### 2. CSS Penguin 🐧
 - **Skills learned**: CSS variables, transforms
